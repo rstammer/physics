@@ -1,13 +1,14 @@
-# Modern theoretical physics: QFT, the Standard Model, the General Relativity and related
+# Modern Theoretical Physics: From Classical Mechanics to Quantum Field Theory
 
 ## What is the purpose of this repo?
 
-This repo is like a "Wiki" for understanding modern physics with a strong emphasis on explaining the precise related
+This repo is like a "Wiki" for understanding theoretical physics with a strong emphasis on explaining the precise related
 mathematical topics. I want to use it to recall certain questions that occurr and share this later with others
 for learning purposes. It contains explanation texts for certain questions as well as technical pages with visualizations,
 formulas and proofs or proof artefacts.
 
-* Making Quantum mechanics and Quantum Field Theory understandable for mathematicians and undergraduate students
+* Building a path from Classical Mechanics through Quantum Mechanics to Quantum Field Theory
+* Making theoretical physics understandable for mathematicians and undergraduate students
 * Explanation of specific formulas
 * Answering questions
 * Understanding modern concepts for particle physics, the fundamental powers and making these concepts precise

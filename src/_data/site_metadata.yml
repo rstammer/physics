@@ -5,7 +5,7 @@
 # in the templates via {{ site.metadata.myvariable }}.
 
 title: Modern Theoretical Physics
-tagline: QFT, Standard Model & General Relativity
+tagline: Von Klassischer Mechanik bis Quantenfeldtheorie
 description: >-
-  A wiki for understanding modern physics with emphasis on precise mathematical foundations.
-  Covering Quantum Field Theory, the Standard Model, General Relativity, and related topics.
+  A wiki for understanding theoretical physics with emphasis on precise mathematical foundations.
+  Covering Classical Mechanics, Quantum Field Theory, the Standard Model, General Relativity, and related topics — accessible for readers with a mathematical background.

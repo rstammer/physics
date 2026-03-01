@@ -6,7 +6,7 @@ permalink: /topics/
 
 # All Topics
 
-Explanations of Quantum Field Theory, the Standard Model, General Relativity, and the underlying mathematics.
+Explanations of Classical Mechanics, Quantum Field Theory, the Standard Model, General Relativity, and the underlying mathematics.
 
 <% collections.topics.resources.each do |topic| %>
 ### [<%= topic.data.title %>](<%= topic.relative_url %>)

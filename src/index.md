@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home-intro">
-  <p>A wiki for understanding modern physics with emphasis on precise mathematical foundations. Making Quantum Field Theory, the Standard Model, and General Relativity accessible to mathematicians and students.</p>
+  <p>A wiki for understanding theoretical physics with emphasis on precise mathematical foundations — from Classical Mechanics through Quantum Field Theory, the Standard Model, and General Relativity. Written for readers with a mathematical background who want to build physical intuition.</p>
 </div>
 
 ## Topics

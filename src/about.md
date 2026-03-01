@@ -9,10 +9,10 @@ This site is a wiki-style resource for understanding modern theoretical physics 
 
 ### Goals
 
-- Make **Quantum Field Theory** and **Quantum Mechanics** accessible to mathematicians and undergraduate students
+- Build a path from **Classical Mechanics** through **Quantum Mechanics** to **Quantum Field Theory** — accessible to mathematicians and undergraduate students
 - Provide clear explanations of specific formulas and their derivations
 - Answer common questions with mathematical rigor
-- Explain how particle physics concepts connect to their mathematical foundations
+- Explain how physics concepts connect to their mathematical foundations
 
 ### Approach
 
@@ -24,6 +24,7 @@ Each topic aims to bridge the gap between physics intuition and mathematical for
 
 ### Topics Covered
 
+- **Classical Mechanics**: Newton's laws, Lagrangian and Hamiltonian formalism, symmetries and conservation laws
 - **Quantum Field Theory**: From classical fields to second quantization
 - **The Standard Model**: Gauge groups, particle representations, symmetry breaking
 - **General Relativity**: Differential geometry, spacetime structure
