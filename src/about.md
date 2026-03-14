@@ -42,7 +42,7 @@ This is a work in progress. Topics are added and refined over time as questions 
 
 **We welcome contributions!** If you find errors, have suggestions for improvements, or want to add new content, please submit a pull request at:
 
-[github.com/rstammer/qft](https://github.com/rstammer/qft)
+[github.com/rstammer/physics](https://github.com/rstammer/physics)
 
 Contributions of all kinds are appreciated:
 - Corrections of mathematical or physical errors

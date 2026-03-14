@@ -13,7 +13,7 @@ Newton's <span class="math-inline">\mathbf{F} = m\mathbf{a}</span> works well fo
 
 The **Lagrangian formulation** replaces forces with a single scalar function and derives the equations of motion from a variational principle. The **Hamiltonian formulation** then reframes the problem in phase space, providing the direct bridge to quantum mechanics via canonical quantization.
 
-For a detailed introduction to the Lagrangian itself, see [What is a Lagrangian?](/qft/topics/what-is-a-lagrangian/).
+For a detailed introduction to the Lagrangian itself, see [What is a Lagrangian?](/physics/topics/what-is-a-lagrangian/).
 
 ---
 

@@ -106,7 +106,7 @@ This is a **conservative force** derivable from the potential:
 
 <span class="math-display">F = -kx</span>
 
-This leads to the harmonic oscillator — see the dedicated topic [The Harmonic Oscillator](/qft/topics/harmonic-oscillator/) for a thorough treatment.
+This leads to the harmonic oscillator — see the dedicated topic [The Harmonic Oscillator](/physics/topics/harmonic-oscillator/) for a thorough treatment.
 
 ---
 
@@ -136,7 +136,7 @@ Newton's laws work extraordinarily well for everyday scales, but they have limit
 
 4. **Connection to quantum mechanics**: There is no obvious path from <span class="math-inline">\mathbf{F} = m\mathbf{a}</span> to quantum mechanics. The Hamiltonian formulation leads directly to canonical quantization.
 
-These motivations lead to the [Lagrangian and Hamiltonian Formalism](/qft/topics/lagrangian-hamiltonian-formalism/), which reformulates classical mechanics in a way that generalizes to field theory and quantum mechanics.
+These motivations lead to the [Lagrangian and Hamiltonian Formalism](/physics/topics/lagrangian-hamiltonian-formalism/), which reformulates classical mechanics in a way that generalizes to field theory and quantum mechanics.
 
 ---
 

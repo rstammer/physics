@@ -42,7 +42,7 @@ jobs:
         run: bin/bridgetown deploy
         env:
           BRIDGETOWN_ENV: production
-          BASE_PATH: /qft
+          BASE_PATH: /physics
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
