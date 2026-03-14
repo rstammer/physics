@@ -9,7 +9,7 @@ layout: default
     <% if resource.data.tags %>
     <div class="tags">
       <% resource.data.tags.each do |tag| %>
-        <span class="tag"><%= tag %></span>
+        <span class="tag" data-tag="<%= tag.downcase.gsub(/\s+/, '-') %>"><%= tag %></span>
       <% end %>
     </div>
     <% end %>
