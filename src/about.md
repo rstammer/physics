@@ -3,15 +3,13 @@ layout: page
 title: About
 ---
 
-## About This Project
-
 Hey there! This is my personal collection of notes on modern theoretical physics. I've been fascinated by the mathematical structures behind physics since learning about it during my studies. These notes are my cluttered attempt to understand how it all fits together, mainly moving from Classical Mechanics through Quantum Mechanics to Quantum Field Theory.
 
 **Fair warning:** The notes are unsorted, incomplete and do not follow a coherent plan. Think of it as a public notebook rather than a textbook. From time to time I add stuff and put it there for later consumption.
 
 ### What I'm Trying to Do
 
-- Build a path from **Classical Mechanics** through **Quantum Mechanics** to **Quantum Field Theory** that a mathematician or curious developer can follow
+- Make the journey accessible and enjoyable to follow
 - Understand the actual mathematical objects behind the physics — precise definitions, not just hand-waving
 - Figure out how different concepts connect to each other and point out aspects that took me long to understand
 
