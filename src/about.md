@@ -5,48 +5,30 @@ title: About
 
 ## About This Project
 
-This site is a wiki-style resource for understanding modern theoretical physics with a strong emphasis on mathematical concepts.
+Hey there! This is my personal collection of notes on modern theoretical physics. I've been fascinated by the mathematical structures behind physics since learning about it during my studies. These notes are my cluttered attempt to understand how it all fits together, mainly moving from Classical Mechanics through Quantum Mechanics to Quantum Field Theory.
 
-### Goals
+**Fair warning:** The notes are unsorted, incomplete and do not follow a coherent plan. Think of it as a public notebook rather than a textbook. From time to time I add stuff and put it there for later consumption.
 
-- Build a path from **Classical Mechanics** through **Quantum Mechanics** to **Quantum Field Theory** — accessible to mathematicians and undergraduate students
-- Provide clear explanations of specific formulas and their derivations
-- Answer common questions with mathematical rigor
-- Explain how physics concepts connect to their mathematical foundations
+### What I'm Trying to Do
 
-### Approach
-
-Each topic aims to bridge the gap between physics intuition and mathematical formalism. We emphasize:
-
-- **Precise definitions**: What are the actual mathematical objects involved?
-- **Connections**: How do different concepts relate to each other?
-- **Structure**: What are the underlying symmetries and algebraic structures?
-
-### Topics Covered
-
-- **Classical Mechanics**: Newton's laws, Lagrangian and Hamiltonian formalism, symmetries and conservation laws
-- **Quantum Field Theory**: From classical fields to second quantization
-- **The Standard Model**: Gauge groups, particle representations, symmetry breaking
-- **General Relativity**: Differential geometry, spacetime structure
-- **Mathematical Foundations**: Lie groups, fiber bundles, representation theory
-
-### A Note on Content Generation
-
-Most of the content on this site has been generated using **Large Language Model (LLM) systems**, specifically Claude by Anthropic. The content has been reviewed for accuracy, but given the complexity of the subject matter, errors may exist.
-
-We believe that LLMs can be valuable tools for creating educational content, especially when used in dialogue with domain experts who can verify and refine the output.
+- Build a path from **Classical Mechanics** through **Quantum Mechanics** to **Quantum Field Theory** that a mathematician or curious developer can follow
+- Understand the actual mathematical objects behind the physics — precise definitions, not just hand-waving
+- Figure out how different concepts connect to each other and point out aspects that took me long to understand
 
 ### Contributing
 
-This is a work in progress. Topics are added and refined over time as questions arise and understanding deepens.
+Given the complexity of the subject matter, errors certainly exist.
 
-**We welcome contributions!** If you find errors, have suggestions for improvements, or want to add new content, please submit a pull request at:
+I would be genuinely happy about contributions! If you find errors, want to clarify something, or feel like adding a topic — please do:
 
 [github.com/rstammer/physics](https://github.com/rstammer/physics)
 
-Contributions of all kinds are appreciated:
+Any kind of contribution helps:
 - Corrections of mathematical or physical errors
 - Clarifications of confusing explanations
 - New topics or expanded coverage
-- Improved formatting or diagrams
 - References to primary sources
+
+### About Me
+
+I'm Robin Stammer 👋 You can find more info about me and my projects at [stammer.dev](https://stammer.dev).
